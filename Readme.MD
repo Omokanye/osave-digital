@@ -11,7 +11,7 @@
 <li>GIT
 <li>COMMAND LINE TOOLS
 
-### DEMO LINK
+### [DEMO LINK] (https://omokanye.github.io/osave-digital/)
 
 
 #### Steps for deploying to github
